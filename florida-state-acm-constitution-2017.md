@@ -30,7 +30,7 @@ The Chapter is chartered by the ACM.
 Per a requirement set forth in the Florida Administrative Code, recognized student organizations shall be limited to enrolled FSU students.
 
 ### Hazing
-No hazing or discrimination will be used as a condition of membership in this organization.
+No hazing or discrimination will be used as a condition of membership in this organization. Information regarding hazing can be found at http://hazing.fsu.edu. 
 
 ### University Non-Discrimination Statement
 This organization agrees to adhere to the University non-discrimination statement: No university student may be denied membership on the basis of race, creed, color, sex, religion, national origin, age, disability, genetic information, veterans’ or marital status, sexual orientation, gender identity, gender expression, or any other protected group status.
